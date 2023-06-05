@@ -2,7 +2,7 @@
 
 ## Problems & Solutions
 
-| #    | Title | Merge_Sorted_Array                                                                                        | Notes |
+| #    | Title | Solution                                                                                     | Notes |
 |------| ----- |-----------------------------------------------------------------------------------------------------------| --------------------- |
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](https://github.com/vlsidlyarevich/leetcode/java/88_Merge_Sorted_Array.java)                        | 
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](https://github.com/vlsidlyarevich/leetcode/java/485_Max_Consecutive_Ones.java)                     | 
