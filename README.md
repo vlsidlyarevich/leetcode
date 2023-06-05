@@ -2,13 +2,13 @@
 
 ## Problems & Solutions
 
-| # | Title | Solution | Notes |
-|---| ----- | -------- | --------------------- |
-| 1 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](https://github.com/vlsidlyarevich/leetcode) | 
-| 2 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](https://github.com/vlsidlyarevich/leetcode) | 
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](https://github.com/vlsidlyarevich/leetcode) | 
-| 4 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](https://github.com/vlsidlyarevich/leetcode) | 
-| 5 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Java](https://github.com/vlsidlyarevich/leetcode) | 
+| #    | Title | Merge_Sorted_Array                                                                                        | Notes |
+|------| ----- |-----------------------------------------------------------------------------------------------------------| --------------------- |
+| 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](https://github.com/vlsidlyarevich/leetcode/java/88_Merge_Sorted_Array.java)                        | 
+| 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](https://github.com/vlsidlyarevich/leetcode/java/485_Max_Consecutive_Ones.java)                     | 
+| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Java](https://github.com/vlsidlyarevich/leetcode/java/1295_Find_Numbers_With_Even_Number_Of_Digits.java) | 
+| 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](https://github.com/vlsidlyarevich/leetcode/java/977_Squares_of_a_Sorted_Array.java)                | 
+| 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Java](https://github.com/vlsidlyarevich/leetcode/java/1089_Duplicate_Zeros.java)                         | 
 
 ## Other LeetCode Repos
 
