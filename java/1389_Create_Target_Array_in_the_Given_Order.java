@@ -26,5 +26,6 @@ class Create_Target_Array_in_the_Given_Orders {
 //        }
 //
 //        return result;
+        return null;
     }
 }
