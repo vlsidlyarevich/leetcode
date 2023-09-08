@@ -14,12 +14,10 @@ class Design_Linked_List {
 
         public MyLinkedList() {
             this.size = 0;
-//            this.head = new Node(0);
-//            this.tail = new Node(0);
         }
 
         public int get(int index) {
-            if (index < 0 && index >= size) return -1;
+            if (index < 0 || index >= size) return -1;
 
             var current = head;
             for (int i = 0; i < index; i++) {
@@ -102,6 +100,7 @@ class Design_Linked_List {
                 if (tail != null) tail.next = null;
             }
 
+            size--;
             current.next = null;
             current.prev = null;
         }
